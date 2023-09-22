@@ -1,0 +1,24 @@
+/* styles.css*/
+
+.severe-alert,
+.alert-text {
+    background-color: #ffc0fb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.severe-alert {
+    font-size: 24px;
+}
+
+#Title {
+    color: #0000ff;
+    font-size: 36px;
+    
+}
+
+#section-head {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+}
